@@ -56,4 +56,24 @@ Para propuestas, colaboraciones o licencias sobre ADI™, puedes contactar direc
 📍 Ubicación: Pontevedra, Galicia, España
 
 También puedes dejar comentarios o conectar mediante GitHub si prefieres comunicación pública.
+🚫 Condiciones de uso
+La propuesta ADI™ – Acceso Dirigido Inteligente está publicada para su exposición y análisis público.
+
+Se permite:
+
+👀 Su lectura, revisión y discusión técnica
+
+🗣️ La difusión o compartición del enlace, siempre citando al autor
+
+No se permite:
+
+🚫 Su uso comercial en productos, apps o sistemas
+
+🚫 Su implementación parcial o total sin autorización escrita
+
+🚫 Su modificación o adaptación con fines lucrativos
+
+Cualquier interés en desarrollar, aplicar o licenciar esta idea debe tramitarse directamente con el autor.
+
+Todos los derechos reservados.
 
